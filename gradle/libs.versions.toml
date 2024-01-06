@@ -1,5 +1,5 @@
 [versions]
-kotlin = "1.9.21"
+kotlin = "1.9.22"
 coroutines = "1.7.3"
 kotlinx-serialization-json = "1.6.2"
 kotlinx-collections-immutable = "0.3.7"
@@ -16,7 +16,7 @@ android-target = "33"
 # the Android compileSdkVersion to use
 android-compile = "33"
 
-android-gradle = "8.2.0"
+android-gradle = "8.2.1"
 
 # the Android target to use in sample
 sample-android-target = "34"
@@ -26,10 +26,10 @@ sample-android-compile = "34"
 jetbrains-compose = "1.5.11"
 
 touchlab-stately = "2.0.6"
-napier = "2.6.1"
+napier = "2.7.1"
 flowExt = "0.7.4"
-koin = "3.5.0"
-koin-androidx-compose = "3.5.0"
+koin = "3.5.3"
+koin-androidx-compose = "3.5.3"
 coil = "2.5.0"
 compose-rules-detekt = "0.3.8"
 
@@ -47,7 +47,7 @@ kotlinx-kover = "0.7.5"
 dokka = "1.9.10"
 kotlinx-binary-compatibility-validator = "0.13.2"
 
-vanniktech-maven-publish = "0.25.3"
+vanniktech-maven-publish = "0.27.0"
 ktlint = "0.50.0"
 
 [libraries]
